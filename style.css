@@ -1,0 +1,25 @@
+h1 {
+  background-color: red;
+  padding: 2rem;
+  border-radius: 10px;
+}
+ol {
+  background-color: rebeccapurple;
+  color: white;
+}
+ul {
+  background-color: chartreuse;
+  color: gray;
+  list-style: none;
+  padding: 2rem;
+}
+p {
+  background-color: black;
+  color: white;
+  margin: 2rem 7rem;
+  padding: 2rem 5rem;
+  border-radius: 2rem;
+  font-size: 2rem;
+  font-weight: 800;
+  opacity: .5;
+}
